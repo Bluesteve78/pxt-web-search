@@ -1,1 +1,18 @@
+{
+  "name": "web",
+  "version": "0.0.1",
+  "description": "Access web data from MakeCode Arcade",
+  "dependencies": {},
+  "files": [
+    "main.ts"
+  ],
+  "testFiles": [
+  ],
+  "public": true,
+  "targetVersions": {
+    "pxt": "10.0.0",
+    "target": "0.20.31"
+  },
+  "preferredEditor": "tsprj"
+}
 
